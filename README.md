@@ -25,6 +25,7 @@ Sharing, suggestions and contributions are always welcome! Just open a Pull requ
 
 - [Amber Smalltalk, runs on JavaScript](https://amber-lang.net/)
 - [Cuis Smalltalk](http://cuis.st/)
+- [Dolphin Smalltalk - A high quality Microsoft Windows implementation](https://github.com/dolphinsmalltalk)
 - [GNU Smalltalk](http://smalltalk.gnu.org/)
 - [GemTalk Systems, GemStone/S](https://gemtalksystems.com/)
 - [Pharo Smalltalk](https://pharo.org/)
